@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\bin\SimpleWCF.dll.config
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\bin\SimpleWCF.dll
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\bin\SimpleWCF.pdb
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\obj\Debug\SimpleWCF.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\obj\Debug\SimpleWCF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\obj\Debug\SimpleWCF.dll
+C:\Users\DELL\Desktop\SimpleWCF.Application\SimpleWCF\obj\Debug\SimpleWCF.pdb

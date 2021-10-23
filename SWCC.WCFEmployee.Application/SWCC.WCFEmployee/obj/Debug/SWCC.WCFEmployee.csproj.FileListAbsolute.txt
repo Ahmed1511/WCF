@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\obj\Debug\SWCC.WCFEmployee.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\obj\Debug\SWCC.WCFEmployee.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\bin\SWCC.WCFEmployee.dll.config
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\bin\SWCC.WCFEmployee.dll
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\bin\SWCC.WCFEmployee.pdb
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\obj\Debug\SWCC.WCFEmployee.dll
+C:\Users\DELL\Desktop\SWCC.WCFEmployee.Application\SWCC.WCFEmployee\obj\Debug\SWCC.WCFEmployee.pdb

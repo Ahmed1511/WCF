@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\bin\EmployeeWCFService.dll.config
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\bin\EmployeeWCFService.dll
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\bin\EmployeeWCFService.pdb
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.dll
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.pdb
+C:\Users\DELL\Desktop\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.csproj.AssemblyReference.cache
